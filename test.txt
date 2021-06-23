@@ -1,0 +1,1 @@
+To edit a file create a branch, make chnages,open pull request for others to review and then merge with master 
